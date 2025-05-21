@@ -70,5 +70,5 @@ Para dúvidas e suporte, entre em contato com a equipe de desenvolvimento.
 
 ---
 
-*Projeto desenvolvido pela equipe Power Platform da empresa XYZ.*
+*Projeto desenvolvido por Gustavo para empresa Prysmian.*
 
